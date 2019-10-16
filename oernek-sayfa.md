@@ -8,26 +8,24 @@ içerik test
 
 Örnek görsel:
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Inline-style: ![Logo Title Text 1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
-Reference-style: 
-![alt text][logo]
+Reference-style: ![Log](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Log"
+Örnek kod:
 
-Örnek kod: 
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
- 
+
 ```python
 s = "Python syntax highlighting"
 print s
 ```
- 
-```
+
+```text
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
+
