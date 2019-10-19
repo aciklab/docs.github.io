@@ -3,7 +3,7 @@
 * [Liman Docs](README.md)
 * [Örnek sayfa](ornek-sayfa.md)
 
-## İşletim Sistemi Kurulumu <a id="kurulum"></a>
+## İŞLETİM SİSTEMİ KURULUMU <a id="kurulum"></a>
 
 * [Kuruluma Giriş](kurulum/kurulum-giris.md)
 * [USB ile başlatma](kurulum/kurulum-usb/README.md)
@@ -19,7 +19,7 @@
   * [Kurulum Sonrası IP Ayarları](kurulum/kurulum-sonrasi-ayarlar/ip-ayarlari.md)
   * [Kurulum Sonrası Paket Ayarları](kurulum/kurulum-sonrasi-ayarlar/paket-ayarlari.md)
 
-## Liman Kurulumu
+## LİMAN KURULUMU
 
 * [Liman Kurulum Yöntemleri](liman-kurulumu/liman-kurulum-yoentemleri/README.md)
   * [Depo üzerinden Kurulum](liman-kurulumu/liman-kurulum-yoentemleri/depo-uezerinden-kurulum.md)
@@ -31,12 +31,12 @@
 * [Liman'a Eklenti kurulumu](liman-kurulumu/limana-eklenti-kurulumu.md)
 * [Liman Eklentisinin Güncellenmesi](liman-kurulumu/liman-eklentisinin-guencellenmesi.md)
 
-## Liman üzerinde Sunucu Yönetimi
+## LİMAN ÜZERİNDE SUNUCU YÖNETİMİ <a id="liman-uzerinde-sunucu-yonetimi"></a>
 
-* [Sunucu Ekleme](liman-uezerinde-sunucu-yoenetimi/sunucu-ekleme.md)
-* [Sunucu Ayarlarının Düzenlenmesi](liman-uezerinde-sunucu-yoenetimi/sunucu-ayarlarinin-duezenlenmesi.md)
-* [Sunucu'da Eklenti Kullanılması](liman-uezerinde-sunucu-yoenetimi/sunucuda-eklenti-kullanilmasi/README.md)
-  * [Sunucuya Eklenti Ekleme](liman-uezerinde-sunucu-yoenetimi/sunucuda-eklenti-kullanilmasi/sunucuya-eklenti-ekleme.md)
-  * [Sunucudan Eklenti Kaldırma](liman-uezerinde-sunucu-yoenetimi/sunucuda-eklenti-kullanilmasi/sunucudan-eklenti-kaldirma.md)
-* [Sunucu Silme](liman-uezerinde-sunucu-yoenetimi/sunucu-silme.md)
+* [Sunucu Ekleme](liman-uzerinde-sunucu-yonetimi/sunucu-ekleme.md)
+* [Sunucu Ayarlarının Düzenlenmesi](liman-uzerinde-sunucu-yonetimi/sunucu-ayarlarinin-duezenlenmesi.md)
+* [Sunucu'da Eklenti Kullanılması](liman-uzerinde-sunucu-yonetimi/sunucuda-eklenti-kullanilmasi/README.md)
+  * [Sunucuya Eklenti Ekleme](liman-uzerinde-sunucu-yonetimi/sunucuda-eklenti-kullanilmasi/sunucuya-eklenti-ekleme.md)
+  * [Sunucudan Eklenti Kaldırma](liman-uzerinde-sunucu-yonetimi/sunucuda-eklenti-kullanilmasi/sunucudan-eklenti-kaldirma.md)
+* [Sunucu Silme](liman-uzerinde-sunucu-yonetimi/sunucu-silme.md)
 
