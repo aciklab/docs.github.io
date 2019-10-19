@@ -1,0 +1,2 @@
+# Depo üzerinden Kurulum
+

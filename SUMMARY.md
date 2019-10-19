@@ -19,3 +19,15 @@
   * [Kurulum Sonrası IP Ayarları](kurulum/kurulum-sonrasi-ayarlar/ip-ayarlari.md)
   * [Kurulum Sonrası Paket Ayarları](kurulum/kurulum-sonrasi-ayarlar/paket-ayarlari.md)
 
+## Liman Kurulumu
+
+* [Liman Kurulum Yöntemleri](liman-kurulumu/liman-kurulum-yoentemleri/README.md)
+  * [Depo üzerinden Kurulum](liman-kurulumu/liman-kurulum-yoentemleri/depo-uezerinden-kurulum.md)
+  * [Paket ile Kurulum](liman-kurulumu/liman-kurulum-yoentemleri/paket-ile-kurulum.md)
+* [Liman Güncelleme](liman-kurulumu/liman-guencelleme/README.md)
+  * [Depo üzerinden Güncelleme](liman-kurulumu/liman-guencelleme/depo-uezerinden-guencelleme.md)
+  * [Paket ile Güncelleme](liman-kurulumu/liman-guencelleme/paket-ile-guencelleme.md)
+* [Kurulum Sonrası Ayarlar](liman-kurulumu/kurulum-sonrasi-ayarlar.md)
+* [Liman'a Eklenti kurulumu](liman-kurulumu/limana-eklenti-kurulumu.md)
+* [Liman Eklentisinin Güncellenmesi](liman-kurulumu/liman-eklentisinin-guencellenmesi.md)
+
