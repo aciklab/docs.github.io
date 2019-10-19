@@ -6,7 +6,7 @@
 ## İŞLETİM SİSTEMİ KURULUMU <a id="kurulum"></a>
 
 * [Kuruluma Giriş](kurulum/kurulum-giris.md)
-* [USB ile başlatma](kurulum/kurulum-usb/README.md)
+* [USB ile Başlatma](kurulum/kurulum-usb/README.md)
   * [Fiziksel cihazda USB ile başlatma](kurulum/kurulum-usb/fiziksel.md)
   * [Sanal cihazda USB ile başlatma](kurulum/kurulum-usb/sanal/README.md)
     * [VirtualBox üzerinde USB başlatma](kurulum/kurulum-usb/sanal/virtualbox.md)
@@ -28,7 +28,7 @@
   * [Depo üzerinden Güncelleme](liman-kurulumu/liman-guencelleme/depo-uezerinden-guencelleme.md)
   * [Paket ile Güncelleme](liman-kurulumu/liman-guencelleme/paket-ile-guencelleme.md)
 * [Kurulum Sonrası Ayarlar](liman-kurulumu/kurulum-sonrasi-ayarlar.md)
-* [Liman'a Eklenti kurulumu ve güncellenmesi](liman-kurulumu/limana-eklenti-kurulumu.md)
+* [Liman'a Eklenti Kurulumu ve Güncellenmesi](liman-kurulumu/limana-eklenti-kurulumu.md)
 
 ## LİMAN ÜZERİNDE SUNUCU YÖNETİMİ <a id="liman-uzerinde-sunucu-yonetimi"></a>
 
@@ -40,7 +40,7 @@
 
 ## LİMAN ÜZERİNDE KULLANICI YÖNETİMİ
 
-* [Liman kullanıcısı ekleme ve kaldırma](liman-uezerinde-kullanici-yoenetimi/liman-kullanicisi-ekleme-ve-kaldirma.md)
+* [Liman Kullanıcısı Ekleme ve Kaldırma](liman-uezerinde-kullanici-yoenetimi/liman-kullanicisi-ekleme-ve-kaldirma.md)
 * [Liman Kullanıcılarının Yönetimi](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/README.md)
   * [Liman kullanıcı ayarlarının düzenlenmesi](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/liman-kullanici-ayarlarinin-duezenlenmesi.md)
   * [Liman Kullanıcılarının Sunucu Yetkileri](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/liman-kullanicilarinin-sunucu-yetkileri.md)

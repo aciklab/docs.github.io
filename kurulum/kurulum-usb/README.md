@@ -1,2 +1,2 @@
-# USB ile başlatma
+# USB ile Başlatma
 
