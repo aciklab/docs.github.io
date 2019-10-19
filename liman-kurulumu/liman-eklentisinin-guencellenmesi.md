@@ -1,2 +1,0 @@
-# Liman Eklentisinin Güncellenmesi
-

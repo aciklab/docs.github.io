@@ -28,15 +28,13 @@
   * [Depo üzerinden Güncelleme](liman-kurulumu/liman-guencelleme/depo-uezerinden-guencelleme.md)
   * [Paket ile Güncelleme](liman-kurulumu/liman-guencelleme/paket-ile-guencelleme.md)
 * [Kurulum Sonrası Ayarlar](liman-kurulumu/kurulum-sonrasi-ayarlar.md)
-* [Liman'a Eklenti kurulumu](liman-kurulumu/limana-eklenti-kurulumu.md)
-* [Liman Eklentisinin Güncellenmesi](liman-kurulumu/liman-eklentisinin-guencellenmesi.md)
+* [Liman'a Eklenti kurulumu ve güncellenmesi](liman-kurulumu/limana-eklenti-kurulumu.md)
 
 ## LİMAN ÜZERİNDE SUNUCU YÖNETİMİ <a id="liman-uzerinde-sunucu-yonetimi"></a>
 
-* [Sunucu Ekleme](liman-uzerinde-sunucu-yonetimi/sunucu-ekleme.md)
+* [Sunucu Ekleme ve Kaldırma](liman-uzerinde-sunucu-yonetimi/sunucu-ekleme.md)
 * [Sunucu Ayarlarının Düzenlenmesi](liman-uzerinde-sunucu-yonetimi/sunucu-ayarlarinin-duezenlenmesi.md)
 * [Sunucu'da Eklenti Kullanılması](liman-uzerinde-sunucu-yonetimi/sunucuda-eklenti-kullanilmasi/README.md)
   * [Sunucuya Eklenti Ekleme](liman-uzerinde-sunucu-yonetimi/sunucuda-eklenti-kullanilmasi/sunucuya-eklenti-ekleme.md)
   * [Sunucudan Eklenti Kaldırma](liman-uzerinde-sunucu-yonetimi/sunucuda-eklenti-kullanilmasi/sunucudan-eklenti-kaldirma.md)
-* [Sunucu Silme](liman-uzerinde-sunucu-yonetimi/sunucu-silme.md)
 

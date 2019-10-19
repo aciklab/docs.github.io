@@ -1,2 +1,2 @@
-# Liman'a Eklenti kurulumu
+# Liman'a Eklenti kurulumu ve güncellenmesi
 

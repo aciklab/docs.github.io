@@ -1,2 +1,0 @@
-# Sunucu Silme
-

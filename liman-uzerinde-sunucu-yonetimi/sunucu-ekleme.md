@@ -1,2 +1,2 @@
-# Sunucu Ekleme
+# Sunucu Ekleme ve Kaldırma
 
