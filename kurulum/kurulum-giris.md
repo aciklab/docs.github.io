@@ -1,2 +1,2 @@
-# Giriş
+# Kuruluma Giriş
 

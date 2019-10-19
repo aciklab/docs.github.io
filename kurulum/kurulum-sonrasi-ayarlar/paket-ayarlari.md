@@ -1,2 +1,2 @@
-# Paket Ayarları
+# Kurulum Sonrası Paket Ayarları
 

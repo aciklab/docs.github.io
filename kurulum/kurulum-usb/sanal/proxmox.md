@@ -1,2 +1,2 @@
-# Proxmox
+# Proxmox üzerinde USB başlatma
 

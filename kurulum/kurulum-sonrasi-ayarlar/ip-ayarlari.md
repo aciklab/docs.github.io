@@ -1,2 +1,2 @@
-# IP Ayarları
+# Kurulum Sonrası IP Ayarları
 

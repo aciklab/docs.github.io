@@ -1,2 +1,2 @@
-# Vmware
+# Vmware üzerinde USB başlatma
 

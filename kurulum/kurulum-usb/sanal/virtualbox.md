@@ -1,2 +1,2 @@
-# VirtualBox
+# VirtualBox üzerinde USB başlatma
 
