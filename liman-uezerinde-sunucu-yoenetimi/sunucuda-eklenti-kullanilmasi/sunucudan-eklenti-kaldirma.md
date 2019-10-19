@@ -1,0 +1,2 @@
+# Sunucudan Eklenti Kaldırma
+

@@ -31,3 +31,12 @@
 * [Liman'a Eklenti kurulumu](liman-kurulumu/limana-eklenti-kurulumu.md)
 * [Liman Eklentisinin Güncellenmesi](liman-kurulumu/liman-eklentisinin-guencellenmesi.md)
 
+## Liman üzerinde Sunucu Yönetimi
+
+* [Sunucu Ekleme](liman-uezerinde-sunucu-yoenetimi/sunucu-ekleme.md)
+* [Sunucu Ayarlarının Düzenlenmesi](liman-uezerinde-sunucu-yoenetimi/sunucu-ayarlarinin-duezenlenmesi.md)
+* [Sunucu'da Eklenti Kullanılması](liman-uezerinde-sunucu-yoenetimi/sunucuda-eklenti-kullanilmasi/README.md)
+  * [Sunucuya Eklenti Ekleme](liman-uezerinde-sunucu-yoenetimi/sunucuda-eklenti-kullanilmasi/sunucuya-eklenti-ekleme.md)
+  * [Sunucudan Eklenti Kaldırma](liman-uezerinde-sunucu-yoenetimi/sunucuda-eklenti-kullanilmasi/sunucudan-eklenti-kaldirma.md)
+* [Sunucu Silme](liman-uezerinde-sunucu-yoenetimi/sunucu-silme.md)
+
