@@ -6,5 +6,5 @@ Mevcut durumda henüz herkesin ulaşabileceği kurumsal bir resmi Depo oluşturu
 
 İlerleyen süreçte Market üzerinden de hem Liman MYS'nin kurulumu hem de eklenti ve modüllerinin kurulması sağlanacaktır. 
 
-Bu nedenle kurulum için elinizde Liman MYS'nin core DEB Paketi bulunması gerekmektedir.
+Bu nedenle kurulum için elinizde Liman MYS'nin Çekirdek DEB Paketi bulunması gerekmektedir.
 
