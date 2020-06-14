@@ -1,30 +1,22 @@
 # Liman'a Eklenti Kurulumu ve Güncellenmesi
 
-## 6 Adımda eklenti yükleme ve güncelleme
+## 4 Adımda eklenti yükleme ve güncelleme
 
-1. Yönetim panelindeki eklentiler sayfası ile işlem yapabilmeniz için eklentiler kısmına tıklayınız.
+1. Yönetim panelindeki eklentiler sayfasında bulunan "Yükle" butonuna tıklayarak eklenti seçme ekranını açabilirsiniz.
 
-![Anasayfadan Eklentiler K&#x131;sm&#x131; Se&#xE7;imi](../.gitbook/assets/screenshot-from-2020-06-14-14-23-38.png)
+![Eklentiler Sayfas&#x131;](../.gitbook/assets/screenshot-from-2020-06-14-19-50-40.png)
 
-2. Eklentiler sayfası açıldığında aşağıdaki ekranla karşılaşmalısınız.
+2. Eklenti Yükle ekranı açıldığında "Gözat"'a tıklayarak bilgisayarınızdaki eklentiyi seçebilirsiniz.
 
-![Eklentiler Sayfas&#x131;](../.gitbook/assets/eklenti2.png)
+![Eklenti Y&#xFC;kleme ekran&#x131;](../.gitbook/assets/screenshot-from-2020-06-14-19-51-54.png)
 
-3. Yükle butonuna tıklayınız.
+3. Eklentiyi seçtikten sonra "Yükle" butonuna tıklayabilirsiniz..
 
-![Y&#xFC;kle Butonu](../.gitbook/assets/eklenti3.png)
+![Eklenti Se&#xE7;imi](../.gitbook/assets/screenshot-from-2020-06-14-19-52-41.png)
 
-4. Yükle butonuna tıklandığında eklenti yükle açılır penceresi ekrana gelir.
+4. Eklenti başarı ile yüklendi yazısından sonra eklentiniz HAVELSAN tarafından imzalı eklenti ise direkt olarak eklenti sayfanızda bulunacaktır.
 
-![Eklenti Y&#xFC;kle A&#xE7;&#x131;l&#x131;r Penceresi](../.gitbook/assets/eklenti4.png)
-
-5. Bilgisayarınızda bulunan eklenti seçilir ve Yükle butonuna tıklanır.
-
-![Y&#xFC;kle Butonu](../.gitbook/assets/eklenti5.png)
-
-6. Yükle butonuna tıklayarak eklentiyi yüklediniz ve sayfa yenilendiğinde eklenti sayfasına gidilir. Yüklediğiniz eklentiyi sayfada görmeniz gerekir.
-
-![Eklentiler Sayfas&#x131;](../.gitbook/assets/eklenti6.png)
+![Ekli eklenti bulunan sayfa](../.gitbook/assets/screenshot-from-2020-06-14-19-53-59.png)
 
 > Bu şekilde eklentiniz sisteme eklenmiş olacaktır. Güncelleme için de aynı işlemlerin yapılması gerekmektedir. Tüm eklentileri yüklemek için bu işlemler geçerlidir.
 
