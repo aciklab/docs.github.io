@@ -21,7 +21,6 @@
 ## LİMAN KURULUMU
 
 * [Liman Kurulum Yöntemleri](liman-kurulumu/liman-kurulum-yoentemleri/README.md)
-  * [Depo üzerinden Kurulum](liman-kurulumu/liman-kurulum-yoentemleri/depo-uezerinden-kurulum.md)
   * [Paket ile Kurulum](liman-kurulumu/liman-kurulum-yoentemleri/paket-ile-kurulum.md)
 * [Liman Güncelleme](liman-kurulumu/liman-guencelleme/README.md)
   * [Depo üzerinden Güncelleme](liman-kurulumu/liman-guencelleme/depo-uezerinden-guencelleme.md)

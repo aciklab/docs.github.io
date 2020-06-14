@@ -2,9 +2,9 @@
 
 Elinizde bulunan "**liman-1.0-lastest.deb**" veya tam sürümün yer aldığı deb paketini daha önce kurmuş olduğunuz işletim sistemi üzerine göndermeniz gerekmektedir. 
 
-## DEB paketini sunucuya gönderme
+## 1. DEB paketini sunucuya gönderme
 
-### GNU/Linux sistemden gönderme:
+### 1.a. GNU/Linux sistemden gönderme:
 
 Kendi bilgisayarınız GNU/Linux temelli bir bilgisayar ise temin ettiğiniz deb paketini karşı sunucu üzerine aşağıdaki komut ile SSH protokolünü kullanarak gönderebilirsiniz:
 
@@ -16,11 +16,11 @@ Bu komut kullanılırken "sysadmin" yerine sunucuya erişim sağladığınız ku
 
 Bu komutun çalışabilmesi için sunucunuzda openssh-server paketinin kurulu olması gerekmektedir ve varsayılanda bulunan güvenlik izinlerinin açık olması gerekmektedir.
 
-### Windows sistemden gönderme:
+### 1.b. Windows sistemden gönderme:
 
 Henüz uygulanmadı. Özet olarak Winscp uygulaması ile gönderilebilmektedir.
 
-## DEB paketini kurma
+## 2. DEB paketini kurma
 
 DEB paketini gönderdikten sonra işletim sistemi bağımsız olarak uzaktan sunucuya erişmeniz gerekmektedir. Bunun için GNU/Linux üzerinden "SSH İstemcisi" ile bağlantı kurulabileceği gibi Windows üzerinden "Putty" ile giriş yapabilirsiniz. 
 
@@ -38,7 +38,7 @@ sudo apt install -y ./liman-1.0-lastest.deb
 
 Bu kısım biraz uzun sürebilmektedir. Fakat bu adımdan sonra kurulum işlemi tamamlanmış olacaktır.
 
-## Yönetici kullanıcısı oluşturmak
+## 3. Yönetici kullanıcısı oluşturmak
 
 Kurulum sonrasında ilk yapılması gereken Yönetici parolası oluşturmak. Bunun için aşağıdaki komutlar ile sudo yetkili kullanıcıda iken liman kullanıcısına giriş yapılır ve yönetici hesabı oluşturulur:
 
