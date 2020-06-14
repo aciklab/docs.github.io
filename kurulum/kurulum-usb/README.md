@@ -2,23 +2,23 @@
 
 USB ile İşletim Sistemi kurabilmek için kurulum ISO disk imajına ve Disk Kalıbı Yazıcı uygulamaya ihtiyaç vardır.
 
-## ISO Kalıbı İndirme
+## 1. ISO Kalıbı İndirme
 
 ISO kalıbı olarak hangi işletim sistemi üzerine kurulum yapacaksanız ilgili ISO kalıbı indirilmesi gerekiyor. Bunun için Pardus ve Ubuntu alternatifleri burada anlatılacaktır.
 
-### Pardus ISO kalıbını indirme
+### 1.a. Pardus ISO kalıbını indirme
 
 Aşağıdaki adreste bulunan sürümlerden güncel olan **Pardus 19.x Sunucu \(64-bit\)** sürümü bilgisayarınıza indirilir.
 
 {% embed url="https://www.pardus.org.tr/surumler" %}
 
-### Ubuntu ISO kalıbını indirme
+### 1.b. Ubuntu ISO kalıbını indirme
 
 Aşağıdaki adreste bulunan sürümlerden güncel olan Ubuntu Sunucu sürümü bilgisayarınıza indirilir.
 
 {% embed url="https://ubuntu.com/download/server" %}
 
-## Windows üzerinde ISO Kalıbı yazdırma
+## 2.a. Windows üzerinde ISO Kalıbı yazdırma
 
 Pardus Disk Kalıbı Yazıcı programını [buradan](http://indir.pardus.org.tr/PARDUS/piw.zip) tıklayarak indirin. İndirdiğiniz ZIP dosyasının içeriğini çıkartın ve **piw.exe** yi yönetici olarak onaylayarak çalıştırın.
 
