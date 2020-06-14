@@ -36,7 +36,7 @@ Sunucuya giriş yaptıktan sonra yetkili kullanıcı yine aynı kullanıcı ise 
 sudo apt install -y ./liman-1.0-lastest.deb
 ```
 
-Bu kısım biraz uzun sürebilmektedir. Fakat bu adımdan sonra kurulum işlemi tamamlanmış olacaktır.
+Bu kısım biraz uzun sürebilmektedir. Fakat bu adımdan sonra "Kurulum Başarıyla Tamamlandı" yazısını gördüğünüzde, kurulum işlemi tamamlanmış olacaktır.
 
 ## 3. Yönetici kullanıcısı oluşturmak
 
@@ -48,4 +48,6 @@ sudo php /liman/server/artisan administrator
 ```
 
 Bu adım sonunda karşınıza liman web arayüzünden giriş yapacağınız kullanıcı adı ve parolanız çıkacaktır. Liman'ı kurduğunuz sunucunun ip adresini web tarayıcınız üzerine yazıp bu bilgiler ile giriş yaparsanız Liman'ın Web arayüzüne giriş yapmış olacaksınız.
+
+![](../../.gitbook/assets/screenshot-from-2020-06-14-18-58-36.png)
 
