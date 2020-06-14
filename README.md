@@ -17,5 +17,5 @@ Liman MYS ile ilgili diğer bilgiler için;
 * Liman Kurumsal Sürüm:
   * [https://liman.havelsan.com.tr](https://liman.havelsan.com.tr/)
 
-
+![&#xD6;rnek bir Liman MYS ekran&#x131;](.gitbook/assets/liman_arayuz_resim.png)
 
