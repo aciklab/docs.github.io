@@ -33,7 +33,6 @@
 
 ## LİMAN ÜZERİNDE KULLANICI YÖNETİMİ
 
-* [Liman Kullanıcısı Ekleme ve Kaldırma](liman-uezerinde-kullanici-yoenetimi/liman-kullanicisi-ekleme-ve-kaldirma.md)
 * [Liman Kullanıcılarının Yönetimi](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/README.md)
   * [Liman kullanıcı ayarlarının düzenlenmesi](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/liman-kullanici-ayarlarinin-duezenlenmesi.md)
   * [Liman Kullanıcılarının Sunucu Yetkileri](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/liman-kullanicilarinin-sunucu-yetkileri.md)
