@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Liman Docs](README.md)
+* [Liman Rehber](README.md)
 * [Örnek sayfa](ornek-sayfa.md)
 
 ## İŞLETİM SİSTEMİ KURULUMU <a id="kurulum"></a>
