@@ -1,2 +1,0 @@
-# Kurulum Sonrası Paket Ayarları
-
