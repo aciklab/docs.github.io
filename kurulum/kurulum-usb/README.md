@@ -1,2 +1,42 @@
 # USB ile Başlatma
 
+USB ile İşletim Sistemi kurabilmek için kurulum ISO disk imajına ve Disk Kalıbı Yazıcı uygulamaya ihtiyaç vardır.
+
+## ISO Kalıbı İndirme
+
+ISO kalıbı olarak hangi işletim sistemi üzerine kurulum yapacaksanız ilgili ISO kalıbı indirilmesi gerekiyor. Bunun için Pardus ve Ubuntu alternatifleri burada anlatılacaktır.
+
+### Pardus ISO kalıbını indirme
+
+Aşağıdaki adreste bulunan sürümlerden güncel olan **Pardus 19.x Sunucu \(64-bit\)** sürümü bilgisayarınıza indirilir.
+
+{% embed url="https://www.pardus.org.tr/surumler" %}
+
+### Ubuntu ISO kalıbını indirme
+
+Aşağıdaki adreste bulunan sürümlerden güncel olan Ubuntu Sunucu sürümü bilgisayarınıza indirilir.
+
+{% embed url="https://ubuntu.com/download/server" %}
+
+## Windows üzerinde ISO Kalıbı yazdırma
+
+Pardus Disk Kalıbı Yazıcı programını [buradan](http://indir.pardus.org.tr/PARDUS/piw.zip) tıklayarak indirin. İndirdiğiniz ZIP dosyasının içeriğini çıkartın ve **piw.exe** yi yönetici olarak onaylayarak çalıştırın.
+
+1. USB cihazınızla önyükleme yapmak istediğiniz herhangi bir Linux disk kalıbı dosyasını \(+\) düğmesine tıklayarak seçiniz. Seçiminizi yaptıktan sonra ileri düğmesine tıklayarak veya sola kaydırma hareketi ile bir sonraki adıma geçiniz.
+
+![](../../.gitbook/assets/disk1.png)
+
+2. Bilgisayarınıza takılı olan \(Program otomatik tespit ederek listeler\) cihazlardan istediğinizi hedef olarak seçiniz. Seçiminizi yaptıktan sonra ileri düğmesine tıklayarak veya sola kaydırma hareketi ile bir sonraki adıma geçiniz.
+
+![](../../.gitbook/assets/disk2.png)
+
+3. Listelenen disk kalıbı ve hedef cihaz teyit ettikten sonra "BAŞLAT" düğmesine basınız. Yazma işleminin başlaması için gelen uyarıyı "EVET" diyerek onaylayınız.
+
+4. Yazma işlemi başladıktan sonra dilerseniz iptal edip disk kalıbınızı veya hedef cihazınızı değiştirerek tekrar başlatabilirsiniz.
+
+5. Yazma işlemi bittikten sonra "Yazma işlemi Tamamlandı !" yazısı ile birlikte, önyüklenebilir Linux USB ortamınız artık hazır, çıkartıp kullanabilirsiniz.
+
+![](../../.gitbook/assets/disk3.png)
+
+Kaynak: [https://www.pardus.org.tr/pardus-usb-olusturma/](https://www.pardus.org.tr/pardus-usb-olusturma/)
+
