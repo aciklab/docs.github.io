@@ -13,8 +13,7 @@
 * [Kurulum Süreçleri](kurulum/kurulum-surecleri/README.md)
   * [Pardus 19 Sunucu Kurulumu](kurulum/kurulum-surecleri/pardus-19-sunucu-kurulumu.md)
   * [Ubuntu 18.04 Sunucu Kurulumu](kurulum/kurulum-surecleri/ubuntu-18.04-sunucu-kurulumu.md)
-* [Kurulum Sonrası Ayarlar](kurulum/kurulum-sonrasi-ayarlar/README.md)
-  * [Kurulum Sonrası IP Ayarları](kurulum/kurulum-sonrasi-ayarlar/ip-ayarlari.md)
+* [Kurulum Sonrası Ayarlar](kurulum/kurulum-sonrasi-ayarlar.md)
 
 ## LİMAN KURULUMU
 
