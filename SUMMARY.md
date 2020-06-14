@@ -33,11 +33,6 @@
 
 ## LİMAN ÜZERİNDE KULLANICI YÖNETİMİ
 
-* [Liman Kullanıcılarının Yönetimi](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/README.md)
-  * [Liman kullanıcı ayarlarının düzenlenmesi](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/liman-kullanici-ayarlarinin-duezenlenmesi.md)
-  * [Liman Kullanıcılarının Sunucu Yetkileri](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/liman-kullanicilarinin-sunucu-yetkileri.md)
-  * [Liman Kullanıcılarının Eklenti Yetkileri](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/liman-kullanicilarinin-eklenti-yetkileri.md)
-  * [Liman Kullanıcılarının Fonksiyon Yetkileri](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/liman-kullanicilarinin-fonksiyon-yetkileri.md)
-  * [Liman Kullanıcılarının Betik Yetkileri](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/liman-kullanicilarinin-betik-yetkileri.md)
-  * [Liman Kullanıcılarının Liman Yetkileri](liman-uezerinde-kullanici-yoenetimi/liman-kullanicilarinin-yoenetimi/liman-kullanicilarinin-liman-yetkileri.md)
+* [Liman Yetki Yönetimi](liman-uezerinde-kullanici-yoenetimi/liman-yetki-yonetimi/README.md)
+  * [Liman Kullanıcı Ayarları](liman-uezerinde-kullanici-yoenetimi/liman-yetki-yonetimi/liman-kullanici-ayarlari.md)
 
