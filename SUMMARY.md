@@ -29,6 +29,7 @@
 * [Sunucu Ekleme ve Kaldırma](liman-uzerinde-sunucu-yonetimi/sunucu-ekleme.md)
 * [Sunucu Ayarlarının Düzenlenmesi](liman-uzerinde-sunucu-yonetimi/sunucu-ayarlarinin-duezenlenmesi.md)
 * [Sunucu'da Eklenti Kullanılması](liman-uzerinde-sunucu-yonetimi/sunucuda-eklenti-kullanilmasi.md)
+* [Sunucu Yönetimi](liman-uzerinde-sunucu-yonetimi/sunucu-yonetimi.md)
 
 ## LİMAN ÜZERİNDE KULLANICI YÖNETİMİ
 
