@@ -2,9 +2,11 @@
 
 Liman MYS, her sürüm güncellemesinde otomatik olarak DEB paketi oluşturmaktadır. Doğası gereği DEB paketi farklı paketlere bağımlılık duymaktadır. Bu bağımlılıklara ulaşılabildiği sürece Liman MYS için DEB paketi, rahatlıkla kurulabilmektedir. 
 
-Mevcut durumda henüz herkesin ulaşabileceği kurumsal bir resmi Depo oluşturulmamıştır. Depo oluşturulduğunda Debian tabanlı sistemlerde depo üzerinden de kurulum yapılabilecektir.
+Mevcut durumda Liman MYS'nin güncel sürümünü barındıran Debian tabanlı sistemlerde kullanılacak şekilde AcikLab deposu bulunmaktadır. İlerleyen süreçte Market üzerinden de hem Liman MYS'nin kurulumu hem de eklenti ve modüllerinin kurulması sağlanacaktır. 
 
-İlerleyen süreçte Market üzerinden de hem Liman MYS'nin kurulumu hem de eklenti ve modüllerinin kurulması sağlanacaktır. 
+{% page-ref page="paket-ile-kurulum.md" %}
 
-Bu nedenle kurulum için elinizde Liman MYS'nin Çekirdek DEB Paketi bulunması gerekmektedir.
+{% page-ref page="depo-uezerinden-kurulum.md" %}
+
+
 
