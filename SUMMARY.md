@@ -22,6 +22,7 @@
   * [Depo üzerinden kurulum](liman-kurulumu/liman-kurulum-yoentemleri/depo-uezerinden-kurulum.md)
 * [Liman Güncelleme](liman-kurulumu/liman-guencelleme/README.md)
   * [Paket ile Güncelleme](liman-kurulumu/liman-guencelleme/paket-ile-guencelleme.md)
+  * [Depo üzerinden güncelleme](liman-kurulumu/liman-guencelleme/depo-uezerinden-guencelleme.md)
 * [Kurulum Sonrası Ayarlar](liman-kurulumu/kurulum-sonrasi-ayarlar.md)
 * [Liman'a Eklenti Kurulumu ve Güncellenmesi](liman-kurulumu/limana-eklenti-kurulumu.md)
 
