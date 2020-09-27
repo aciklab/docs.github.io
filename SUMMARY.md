@@ -38,3 +38,7 @@
 * [Liman Yetki Yönetimi](liman-uezerinde-kullanici-yoenetimi/liman-yetki-yonetimi/README.md)
   * [Liman Kullanıcı Ayarları](liman-uezerinde-kullanici-yoenetimi/liman-yetki-yonetimi/liman-kullanici-ayarlari.md)
 
+## Domain Eklentisi
+
+* [Domain Eklentisi Genel](domain-eklentisi/domain-eklentisi-genel.md)
+
