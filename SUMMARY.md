@@ -41,4 +41,32 @@
 ## Domain Eklentisi
 
 * [Domain Eklentisi Genel](domain-eklentisi/domain-eklentisi-genel.md)
+* [Sunucular](domain-eklentisi/sunucular/README.md)
+  * [SAMBA DC](domain-eklentisi/sunucular/samba-dc/README.md)
+    * [Kurulum](domain-eklentisi/sunucular/samba-dc/kurulum.md)
+  * [MS Aktif Dizin](domain-eklentisi/sunucular/ms-aktif-dizin/README.md)
+    * [Kurulum](domain-eklentisi/sunucular/ms-aktif-dizin/kurulum.md)
+* [Domain Eklentisi Arayüzü](domain-eklentisi/domain-eklentisi-arayuezue/README.md)
+  * [Kullanıcı Yönetimi](domain-eklentisi/domain-eklentisi-arayuezue/kullanici-yoenetimi.md)
+  * [Grup Yönetimi](domain-eklentisi/domain-eklentisi-arayuezue/grup-yoenetimi.md)
+  * [Makine Yönetimi](domain-eklentisi/domain-eklentisi-arayuezue/makine-yoenetimi.md)
+  * [Politika Yönetimi](domain-eklentisi/domain-eklentisi-arayuezue/politika-yoenetimi.md)
+
+## DNS Eklentisi
+
+* [DNS Eklentisi Genel](dns-eklentisi/dns-eklentisi-genel.md)
+* [Sunucular](dns-eklentisi/sunucular.md)
+* [DNS Eklentisi Arayüzü](dns-eklentisi/dns-eklentisi-arayuezue.md)
+
+## PostgreSQL Eklentisi
+
+* [PostgreSQL Eklentisi Genel](postgresql-eklentisi/postgresql-eklentisi-genel.md)
+* [Sunucular](postgresql-eklentisi/sunucular.md)
+* [PostgreSQL Eklentisi Arayüzü](postgresql-eklentisi/postgresql-eklentisi-arayuezue.md)
+
+## Konteyner Eklentisi
+
+* [Konteyner Eklentisi Genel](konteyner-eklentisi/konteyner-eklentisi-genel.md)
+* [Sunucular](konteyner-eklentisi/sunucular.md)
+* [Konteyner Eklentisi Arayüzü](konteyner-eklentisi/konteyner-eklentisi-arayuezue.md)
 

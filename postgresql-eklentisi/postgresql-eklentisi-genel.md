@@ -1,0 +1,2 @@
+# PostgreSQL Eklentisi Genel
+
