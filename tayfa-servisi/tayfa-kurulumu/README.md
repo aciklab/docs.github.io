@@ -1,0 +1,2 @@
+# Tayfa Kurulumu
+

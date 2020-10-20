@@ -1,0 +1,2 @@
+# Kaptan Kurulumu
+

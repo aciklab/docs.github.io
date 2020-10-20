@@ -52,6 +52,23 @@
   * [Makine Yönetimi](domain-eklentisi/domain-eklentisi-arayuezue/makine-yoenetimi.md)
   * [Politika Yönetimi](domain-eklentisi/domain-eklentisi-arayuezue/politika-yoenetimi.md)
 
+## Kaptan Servisi
+
+* [Kaptan Servisi Hakkında](kaptan-servisi/kaptan-servisi-hakkinda.md)
+* [Kaptan Kurulumu](kaptan-servisi/kaptan-kurulumu/README.md)
+  * [Depodan Yükleme](kaptan-servisi/kaptan-kurulumu/depodan-yuekleme.md)
+  * [Paket ile Yükleme](kaptan-servisi/kaptan-kurulumu/paket-ile-yuekleme.md)
+* [Liman Kaptan Eklentisi](kaptan-servisi/liman-kaptan-eklentisi.md)
+
+## Tayfa Servisi
+
+* [Tayfa Servisi Hakkında](tayfa-servisi/tayfa-servisi-hakkinda.md)
+* [Tayfa Kurulumu](tayfa-servisi/tayfa-kurulumu/README.md)
+  * [Liman Üzerinden Palamar ile yükleme](tayfa-servisi/tayfa-kurulumu/liman-uezerinden-palamar-ile-yuekleme.md)
+  * [Depodan Yükleme](tayfa-servisi/tayfa-kurulumu/depodan-yuekleme.md)
+  * [Paket ile Yükleme](tayfa-servisi/tayfa-kurulumu/paket-ile-yuekleme.md)
+* [Tayfa Politikaları](tayfa-servisi/tayfa-politikalari.md)
+
 ## DNS Eklentisi
 
 * [DNS Eklentisi Genel](dns-eklentisi/dns-eklentisi-genel.md)
