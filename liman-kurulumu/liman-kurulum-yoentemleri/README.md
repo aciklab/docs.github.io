@@ -4,9 +4,6 @@ Liman MYS, her sürüm güncellemesinde otomatik olarak DEB paketi oluşturmakta
 
 Mevcut durumda Liman MYS'nin güncel sürümünü barındıran Debian tabanlı sistemlerde kullanılacak şekilde AcikLab deposu bulunmaktadır. İlerleyen süreçte Market üzerinden de hem Liman MYS'nin kurulumu hem de eklenti ve modüllerinin kurulması sağlanacaktır. 
 
-{% page-ref page="paket-ile-kurulum.md" %}
-
-{% page-ref page="depo-uezerinden-kurulum.md" %}
 
 
 
