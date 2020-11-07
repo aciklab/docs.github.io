@@ -4,11 +4,9 @@ Sanallaştırma ortamlarında USB ile başlatmak için BIOS yerine sanallaştır
 
 VirtualBox'un kurulu olduğu sistemde ilgili ISO dosyası olması durumunda aşağıdaki bağlantıda anlatıldığı gibi kurulum yapabilirsiniz:
 
-{% page-ref page="virtualbox.md" %}
 
 Proxmox üzerinde web arayüzünden ISO dosyasını Depolama alanına yüklenmesi gerekmektedir. Bu işlem yapıldıktan sonra aşağıdaki bağlantıda anlatıldığı gibi kurulum yapabilirsiniz:
 
-{% page-ref page="proxmox.md" %}
 
 
 
