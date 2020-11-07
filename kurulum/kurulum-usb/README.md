@@ -10,13 +10,11 @@ ISO kalıbı olarak hangi işletim sistemi üzerine kurulum yapacaksanız ilgili
 
 Aşağıdaki adreste bulunan sürümlerden güncel olan **Pardus 19.x Sunucu \(64-bit\)** sürümü bilgisayarınıza indirilir.
 
-{% embed url="https://www.pardus.org.tr/surumler" %}
 
 ### 1.b. Ubuntu ISO kalıbını indirme
 
 Aşağıdaki adreste bulunan sürümlerden güncel olan Ubuntu Sunucu sürümü bilgisayarınıza indirilir.
 
-{% embed url="https://ubuntu.com/download/server" %}
 
 ## 2.a. Windows üzerinde ISO Kalıbı yazdırma
 
