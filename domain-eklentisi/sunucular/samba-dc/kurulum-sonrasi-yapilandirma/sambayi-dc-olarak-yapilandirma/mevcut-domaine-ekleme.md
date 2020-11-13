@@ -1,2 +1,0 @@
-# Mevcut Domaine Ekleme
-

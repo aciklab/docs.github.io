@@ -1,2 +1,0 @@
-# Sambayı DC Olarak Yapılandırma
-
