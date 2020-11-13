@@ -2,9 +2,24 @@
 
 Elinizde bulunan "**liman-1.0-lastest.deb**" veya tam sürümün yer aldığı deb paketini daha önce kurmuş olduğunuz işletim sistemi üzerine göndermeniz gerekmektedir. 
 
-## 1. DEB paketini sunucuya gönderme
+## 1. Kurulum Öncesi Adımlar
 
-### 1.a. GNU/Linux sistemden gönderme:
+Liman MYS geliştirilmesi itibari ile Pardus işletim sistemi üzerinde kullanılmaya yönelik paketlenmiştir. Fakat Debian tabanlı sistemlerde çalıştırılmasının önünde hiçbir engel yoktur. Fakat bağımlılıklarından dolayı özellikle PHP 7.3 sürümünün bulunmasını beklemektedir.
+
+Bazı dağıtımların resmi sitesinde PHP 7.3 paketleri bulunmamaktadır. Bu nedenle kurulum öncesinde php depolarını sisteme eklemek gerekmektedir. Php deposu eklenmesi gereken ve ekleme adımları aşağıda belirtilmiştir.
+
+**Ubuntu 18.04**
+
+```text
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:ondrej/php
+sudo apt update
+sudo apt install php-sqlite3 php-curl
+```
+
+## 2. DEB paketini sunucuya gönderme
+
+### 2.a. GNU/Linux sistemden gönderme:
 
 Kendi bilgisayarınız GNU/Linux temelli bir bilgisayar ise temin ettiğiniz deb paketini karşı sunucu üzerine aşağıdaki komut ile SSH protokolünü kullanarak gönderebilirsiniz:
 
@@ -16,11 +31,11 @@ Bu komut kullanılırken "sysadmin" yerine sunucuya erişim sağladığınız ku
 
 Bu komutun çalışabilmesi için sunucunuzda openssh-server paketinin kurulu olması gerekmektedir ve varsayılanda bulunan güvenlik izinlerinin açık olması gerekmektedir.
 
-### 1.b. Windows sistemden gönderme:
+### 2.b. Windows sistemden gönderme:
 
 Henüz uygulanmadı. Özet olarak Winscp uygulaması ile gönderilebilmektedir.
 
-## 2. DEB paketini kurma
+## 3. DEB paketini kurma
 
 DEB paketini gönderdikten sonra işletim sistemi bağımsız olarak uzaktan sunucuya erişmeniz gerekmektedir. Bunun için GNU/Linux üzerinden "SSH İstemcisi" ile bağlantı kurulabileceği gibi Windows üzerinden "Putty" ile giriş yapabilirsiniz. 
 
@@ -38,7 +53,7 @@ sudo apt install -y ./liman-1.0-lastest.deb
 
 Bu kısım biraz uzun sürebilmektedir. Fakat bu adımdan sonra "Kurulum Başarıyla Tamamlandı" yazısını gördüğünüzde, kurulum işlemi tamamlanmış olacaktır.
 
-## 3. Yönetici kullanıcısı oluşturmak
+## 4. Yönetici kullanıcısı oluşturmak
 
 Kurulum sonrasında ilk yapılması gereken Yönetici parolası oluşturmak. Bunun için aşağıdaki komutlar ile sudo yetkili kullanıcıda iken liman kullanıcısına giriş yapılır ve yönetici hesabı oluşturulur:
 
