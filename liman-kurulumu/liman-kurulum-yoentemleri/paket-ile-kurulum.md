@@ -8,7 +8,7 @@ Liman MYS geliştirilmesi itibari ile Pardus işletim sistemi üzerinde kullanı
 
 Bazı dağıtımların resmi sitesinde PHP 7.3 paketleri bulunmamaktadır. Bu nedenle kurulum öncesinde php depolarını sisteme eklemek gerekmektedir. Php deposu eklenmesi gereken ve ekleme adımları aşağıda belirtilmiştir.
 
-**Ubuntu 18.04**
+### 1.a. Ubuntu 18.04
 
 ```text
 sudo apt install software-properties-common
